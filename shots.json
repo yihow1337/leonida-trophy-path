@@ -1,5 +1,10 @@
 [
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
+  { "file": "1-overview.jpg", "path": "/#open=28&earned=2,3,8,4,9,20,21,35,16,33,44,17", "viewport": { "width": 1280, "height": 800 },
+    "shows": "Cover: checklist with official names, descriptions and grade medals; kind chips with counts, grade chips, search; progress 12/55 with per-grade tallies; spoiler switch (Hide story); Export/Import; the missable Positive Mental Attitude guide open with its two cited sources and missable reason." },
+  { "file": "2-roadmap.jpg", "path": "/#view=roadmap&spoilers=off&earned=2,3,8,4,9,20,21,35,16,33,44,17,28", "viewport": { "width": 1280, "height": 1180 },
+    "shows": "Roadmap to the platinum: 9 stages in play order, story trophies with chapter and mission, counts (42, 14, 20, 250, 52, 18, $250,000…), MISSABLE and WATCH flags, per-stage progress and sources." },
+  { "file": "3-guide.jpg", "path": "/#open=7&kind=story&spoilers=off&earned=2,3,8,4,9,20,21,35,16,33,44,17", "viewport": { "width": 1280, "height": 930 },
+    "shows": "Story filter with the gold 'You Gotta Know When to Get Off' guide open: sources, written guide, steps and the 12-trophy story path." },
+  { "file": "4-spoilers.jpg", "path": "/#open=5&kind=story&spoilers=story&earned=2,3,8,4,9,20,21,35,16,33,44,17", "viewport": { "width": 1280, "height": 800 },
+    "shows": "Spoiler setting on (Hide story): unearned story trophies show only their chapter, the guide pane is locked with a reveal button, earned ones stay readable." }
 ]
